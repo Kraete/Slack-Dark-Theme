@@ -8687,6 +8687,6 @@ a, a:link, a:visited {
 }
 
 .c-member_slug, .c-member_slug--link {
-    background: #000000!important
+    background: #000000!important;
     color: #ffffff!important;
 }
