@@ -8685,3 +8685,8 @@ a, a:link, a:visited {
 .p-threads_flexpane__header_channel_name {
     color: lightgray;
 }
+
+.c-member_slug--link {
+    background: #000000
+    color: #ffffff!important;
+}
