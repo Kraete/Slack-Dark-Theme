@@ -8686,7 +8686,7 @@ a, a:link, a:visited {
     color: lightgray;
 }
 
-.c-member_slug--link {
-    background: #000000
+.c-member_slug, .c-member_slug--link {
+    background: #000000!important
     color: #ffffff!important;
 }
