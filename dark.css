@@ -8687,8 +8687,8 @@ a, a:link, a:visited {
 }
 
 .c-member_slug--link {
-    background: #000000!important;
-    color: #949494!important;
+    background: #000000;
+    color: #949494;
 }
 
 .c-member_slug--link:hover {
