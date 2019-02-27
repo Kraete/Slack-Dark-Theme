@@ -8695,7 +8695,7 @@ a, a:link, a:visited {
     background: #949494!important;
     color: #000000!important;
 }
-c-mrkdwn__mention {
+.c-mrkdwn__mention {
     background: #000000;
     color: #949494;
 }
